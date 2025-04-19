@@ -1,6 +1,6 @@
 # Reviews-Sentiment-Classification-using-TF-IDF
 
-## 📄 Project Summary
+## Project Summary
 
 This project focuses on sentiment classification using an Amazon product reviews dataset containing over 17,000 records. Each review is labeled as **Positive**, **Neutral**, or **Negative**.
 
@@ -9,7 +9,7 @@ This project focuses on sentiment classification using an Amazon product reviews
 - Source: Scraped Amazon product reviews
 - Classes: `Positive`, `Neutral`, `Negative`
 
-### 🧠 Objectives
+### Tasks
 1. **Text Preprocessing**: Tokenize reviews, remove stop words, and apply stemming using NLTK.
 2. **Label Encoding**: Convert categorical labels into numeric form.
 3. **Data Splitting**: 80% for training and 20% for testing.
